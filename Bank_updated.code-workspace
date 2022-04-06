@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\bad-bank-context"
+		},
+		{
+			"path": "..\\..\\bad-bank-navigation-bar"
+		},
+		{
+			"path": "..\\..\\bad-bank-routing"
+		},
+		{
+			"path": "..\\..\\bad-bank-styling-the-bootstrap-card"
+		},
+		{
+			"path": "..\\..\\bad-bank-styling-the-navigation-bar"
+		},
+		{
+			"path": "..\\..\\context-basics"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\routing-basics"
+		},
+		{
+			"path": "..\\..\\styles-basics"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bad-bank-context",
+		"livePreview.defaultPreviewPath": "c:\\Users\\Demo\\Downloads\\context-basics\\starter\\index.html"
+	}
+}
